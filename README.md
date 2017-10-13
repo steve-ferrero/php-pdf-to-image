@@ -8,7 +8,7 @@ You should have [Imagick](http://www.imagemagick.org/script/download.php) and [G
 
 The package can be installed via composer:
 ``` bash
-$ composer require steve-ferrero/pdf-to-image
+$ composer require web-atrio/php-pdf-to-image
 ```
 
 ## Usage
