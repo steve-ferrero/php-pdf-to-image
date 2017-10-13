@@ -1,5 +1,5 @@
 {
-    "name": "web-atrio/pdf-to_image",
+    "name": "web-atrio/php-pdf-to-image",
     "description": "PHP pdf to image converter",
     "type": "php",
     "license": "MIT",
